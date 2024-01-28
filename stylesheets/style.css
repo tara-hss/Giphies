@@ -1,0 +1,16 @@
+.form {
+    padding-bottom: 20px;
+}
+.img {
+    width: 200px;
+}
+.image-container {
+    width: 200px;
+    display: inline-block;
+    gap: 10px;
+    margin-left: 5px;
+}
+article {
+    display: block;
+
+}
